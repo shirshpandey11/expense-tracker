@@ -10,7 +10,7 @@ Expense Tracker is a full-stack web application that helps users manage their da
 https://expense-tracker-eta-beige-59.vercel.app/
 
 **Backend:**
-https://expense-tracker-thki.onrender.com
+https://expense-tracker-thki.onrender.com/api/expenses
 
 **GitHub Repository:**
 https://github.com/shirshpandey11/expense-tracker
